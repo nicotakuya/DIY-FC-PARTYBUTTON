@@ -9,3 +9,14 @@ Arduinoを使って作ります。「ギミアぶれいく 史上最強のクイ
 
 ・エキスパンション端子用通信ケーブル。
 
+・ブレッドボード。
+
+・ジャンパーワイヤー。
+
+## Movie
+https://www.youtube.com/watch?v=wClHVT4CYmQ
+
+## 参考資料
+Nocash
+
+https://problemkaputt.de/everynes.htm#controllerspushbuttons
