@@ -3,7 +3,7 @@
 Arduinoを使って作ります。「ギミアぶれいく 史上最強のクイズ王決定戦」で動作を確認しました。
 
 ## 部品
-・Arduino Pro Mini互換基板（ATmega328P/16MHz/5V）。
+・Arduino Pro Mini互換基板（ATmega328P/16MHz/5V）。 https://akizukidenshi.com/catalog/g/g110347/
 
 ・タクトスイッチ1～6。
 
